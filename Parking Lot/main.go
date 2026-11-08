@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"math"
 	"time"
-
 )
 
 type VehicleType string
